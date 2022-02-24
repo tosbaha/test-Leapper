@@ -1,2 +1,1 @@
-# test-Leapper
-Test iOS Project
+# leapper-ios

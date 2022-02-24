@@ -1,0 +1,267 @@
+PODS:
+  - Alamofire (5.5.0)
+  - BSImagePicker (3.3.1)
+  - DLRadioButton (1.4.12)
+  - EasyPeasy (1.10.0)
+  - EFQRCode (5.1.9):
+    - EFQRCode/Core (= 5.1.9)
+  - EFQRCode/Core (5.1.9)
+  - Firebase/CoreOnly (8.12.1):
+    - FirebaseCore (= 8.12.1)
+  - Firebase/Messaging (8.12.1):
+    - Firebase/CoreOnly
+    - FirebaseMessaging (~> 8.12.0)
+  - FirebaseCore (8.12.1):
+    - FirebaseCoreDiagnostics (~> 8.0)
+    - GoogleUtilities/Environment (~> 7.7)
+    - GoogleUtilities/Logger (~> 7.7)
+  - FirebaseCoreDiagnostics (8.12.0):
+    - GoogleDataTransport (~> 9.1)
+    - GoogleUtilities/Environment (~> 7.7)
+    - GoogleUtilities/Logger (~> 7.7)
+    - nanopb (~> 2.30908.0)
+  - FirebaseInstallations (8.12.0):
+    - FirebaseCore (~> 8.0)
+    - GoogleUtilities/Environment (~> 7.7)
+    - GoogleUtilities/UserDefaults (~> 7.7)
+    - PromisesObjC (< 3.0, >= 1.2)
+  - FirebaseMessaging (8.12.0):
+    - FirebaseCore (~> 8.0)
+    - FirebaseInstallations (~> 8.0)
+    - GoogleDataTransport (~> 9.1)
+    - GoogleUtilities/AppDelegateSwizzler (~> 7.7)
+    - GoogleUtilities/Environment (~> 7.7)
+    - GoogleUtilities/Reachability (~> 7.7)
+    - GoogleUtilities/UserDefaults (~> 7.7)
+    - nanopb (~> 2.30908.0)
+  - FlagPhoneNumber (0.8.0):
+    - FlagPhoneNumber/libPhoneNumberiOS (= 0.8.0)
+  - FlagPhoneNumber/libPhoneNumberiOS (0.8.0)
+  - GoogleDataTransport (9.1.2):
+    - GoogleUtilities/Environment (~> 7.2)
+    - nanopb (~> 2.30908.0)
+    - PromisesObjC (< 3.0, >= 1.2)
+  - GoogleUtilities/AppDelegateSwizzler (7.7.0):
+    - GoogleUtilities/Environment
+    - GoogleUtilities/Logger
+    - GoogleUtilities/Network
+  - GoogleUtilities/Environment (7.7.0):
+    - PromisesObjC (< 3.0, >= 1.2)
+  - GoogleUtilities/Logger (7.7.0):
+    - GoogleUtilities/Environment
+  - GoogleUtilities/Network (7.7.0):
+    - GoogleUtilities/Logger
+    - "GoogleUtilities/NSData+zlib"
+    - GoogleUtilities/Reachability
+  - "GoogleUtilities/NSData+zlib (7.7.0)"
+  - GoogleUtilities/Reachability (7.7.0):
+    - GoogleUtilities/Logger
+  - GoogleUtilities/UserDefaults (7.7.0):
+    - GoogleUtilities/Logger
+  - ImageSlideshow (1.8.3):
+    - ImageSlideshow/Core (= 1.8.3)
+  - ImageSlideshow/Core (1.8.3)
+  - ImageSlideshow/Kingfisher (1.8.3):
+    - ImageSlideshow/Core
+    - Kingfisher (> 3.0)
+  - ImageViewer (0.1.4)
+  - ImageViewer.swift (3.3.3)
+  - ImageViewer.swift/Fetcher (3.3.3):
+    - SDWebImage
+  - InputBarAccessoryView (5.4.0):
+    - InputBarAccessoryView/Core (= 5.4.0)
+  - InputBarAccessoryView/Core (5.4.0)
+  - IQKeyboardManager (6.5.9)
+  - Kingfisher (7.1.2)
+  - LocationPicker (1.4.2)
+  - MessageKit (3.7.0):
+    - InputBarAccessoryView (~> 5.4.0)
+  - nanopb (2.30908.0):
+    - nanopb/decode (= 2.30908.0)
+    - nanopb/encode (= 2.30908.0)
+  - nanopb/decode (2.30908.0)
+  - nanopb/encode (2.30908.0)
+  - Nantes (0.1.2)
+  - NVActivityIndicatorView (5.1.1):
+    - NVActivityIndicatorView/Base (= 5.1.1)
+  - NVActivityIndicatorView/Base (5.1.1)
+  - PhoneNumberKit (3.3.4):
+    - PhoneNumberKit/PhoneNumberKitCore (= 3.3.4)
+    - PhoneNumberKit/UIKit (= 3.3.4)
+  - PhoneNumberKit/PhoneNumberKitCore (3.3.4)
+  - PhoneNumberKit/UIKit (3.3.4):
+    - PhoneNumberKit/PhoneNumberKitCore
+  - PromisesObjC (2.0.0)
+  - Protobuf (3.11.4)
+  - PryntTrimmerView (4.0.2)
+  - QRCodeReader.swift (10.1.0)
+  - RxCocoa (6.1.0):
+    - RxRelay (= 6.1.0)
+    - RxSwift (= 6.1.0)
+  - RxRelay (6.1.0):
+    - RxSwift (= 6.1.0)
+  - RxSwift (6.1.0)
+  - SDWebImage (4.4.8):
+    - SDWebImage/Core (= 4.4.8)
+  - SDWebImage/Core (4.4.8)
+  - SideMenu (6.5.0)
+  - SnapKit (5.0.1)
+  - Socket.IO-Client-Swift (16.0.1):
+    - Starscream (~> 4.0)
+  - Starscream (4.0.4)
+  - SteviaLayout (4.7.3)
+  - SwiftDate (5.1.0)
+  - SwiftKeychainWrapper (4.0.1)
+  - SwiftyJSON (4.3.0)
+  - SwiftyMenu (0.6.5):
+    - SnapKit (~> 5.0.1)
+  - SwiftyStoreKit (0.16.1)
+  - SwipeableTabBarController (3.4.2)
+  - Toast-Swift (5.0.1)
+  - YPImagePicker (5.2.1):
+    - PryntTrimmerView (= 4.0.2)
+    - SteviaLayout (= 4.7.3)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.2)
+  - BSImagePicker (~> 3.1)
+  - DLRadioButton (~> 1.4)
+  - EasyPeasy
+  - EFQRCode (~> 5.1.6)
+  - Firebase/Messaging
+  - FlagPhoneNumber
+  - ImageSlideshow (~> 1.8.3)
+  - ImageSlideshow/Kingfisher
+  - ImageViewer (from `https://github.com/tovkal/ImageViewer`)
+  - ImageViewer.swift (~> 3.0)
+  - ImageViewer.swift/Fetcher (~> 3.0)
+  - IQKeyboardManager
+  - LocationPicker
+  - MessageKit
+  - Nantes
+  - NVActivityIndicatorView
+  - PhoneNumberKit (~> 3.3)
+  - Protobuf (< 3.12.0)
+  - QRCodeReader.swift (~> 10.1.0)
+  - RxCocoa (= 6.1.0)
+  - RxSwift (= 6.1.0)
+  - SDWebImage (~> 4.0)
+  - SideMenu
+  - Socket.IO-Client-Swift (~> 16.0.1)
+  - SwiftDate (~> 5.0)
+  - SwiftKeychainWrapper
+  - SwiftyJSON (~> 4.0)
+  - SwiftyMenu (~> 0.6.4)
+  - SwiftyStoreKit
+  - SwipeableTabBarController
+  - Toast-Swift (~> 5.0.1)
+  - YPImagePicker
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - BSImagePicker
+    - DLRadioButton
+    - EasyPeasy
+    - EFQRCode
+    - Firebase
+    - FirebaseCore
+    - FirebaseCoreDiagnostics
+    - FirebaseInstallations
+    - FirebaseMessaging
+    - FlagPhoneNumber
+    - GoogleDataTransport
+    - GoogleUtilities
+    - ImageSlideshow
+    - ImageViewer.swift
+    - InputBarAccessoryView
+    - IQKeyboardManager
+    - Kingfisher
+    - LocationPicker
+    - MessageKit
+    - nanopb
+    - Nantes
+    - NVActivityIndicatorView
+    - PhoneNumberKit
+    - PromisesObjC
+    - Protobuf
+    - PryntTrimmerView
+    - QRCodeReader.swift
+    - RxCocoa
+    - RxRelay
+    - RxSwift
+    - SDWebImage
+    - SideMenu
+    - SnapKit
+    - Socket.IO-Client-Swift
+    - Starscream
+    - SteviaLayout
+    - SwiftDate
+    - SwiftKeychainWrapper
+    - SwiftyJSON
+    - SwiftyMenu
+    - SwiftyStoreKit
+    - SwipeableTabBarController
+    - Toast-Swift
+    - YPImagePicker
+
+EXTERNAL SOURCES:
+  ImageViewer:
+    :git: https://github.com/tovkal/ImageViewer
+
+CHECKOUT OPTIONS:
+  ImageViewer:
+    :commit: 76944a7b1192d1a0af6767f33804a69bd2d9e743
+    :git: https://github.com/tovkal/ImageViewer
+
+SPEC CHECKSUMS:
+  Alamofire: 1c4fb5369c3fe93d2857c780d8bbe09f06f97e7c
+  BSImagePicker: 0fe04b574d4d6b81093785d2af6c26227efc8428
+  DLRadioButton: d7c4e225ed0e8013cef7be61455230c7557ad7c1
+  EasyPeasy: b9b1bae024d21a7dfa9bad26d6826d88348cc6f1
+  EFQRCode: ac22e003a6aa09ec59ec48776c3560c024c95ba3
+  Firebase: 580d09e8edafc3073ebf09c03fd42e4d80d35fe9
+  FirebaseCore: 8138de860a90ca7eec5e324da5788fb0ebf1d93c
+  FirebaseCoreDiagnostics: 3b40dfadef5b90433a60ae01f01e90fe87aa76aa
+  FirebaseInstallations: 25764cf322e77f99449395870a65b2bef88e1545
+  FirebaseMessaging: 23db8bf05585e929ada8af0f0968933c25252808
+  FlagPhoneNumber: 3712455b95f66cb0f2016fef7d9e34cddf8c7f9a
+  GoogleDataTransport: 629c20a4d363167143f30ea78320d5a7eb8bd940
+  GoogleUtilities: e0913149f6b0625b553d70dae12b49fc62914fd1
+  ImageSlideshow: 4694d7d699a1549582e7cc631fb392d8f91630f3
+  ImageViewer: 0c79f53859883f4215b0ceeac4c7e4d3caede8a3
+  ImageViewer.swift: 3dbb74a68ac4bdd6cdd585b3128dae17ccd733e5
+  InputBarAccessoryView: 74d471ab1fa1736806be50328df79257e52865a9
+  IQKeyboardManager: 241cc94ccabc9deb8f8bd7d12f00d73288d13ecc
+  Kingfisher: 44ed6a8504763f27bab46163adfac83f5deb240c
+  LocationPicker: 9af49409ec3ca13fdf4bf6b39e1a3c7dec029f4a
+  MessageKit: 8e76dd8d65ad44b49e1651c673497146416461e9
+  nanopb: a0ba3315591a9ae0a16a309ee504766e90db0c96
+  Nantes: 0396442578e32242223fed46050dea1850236184
+  NVActivityIndicatorView: 1f6c5687f1171810aa27a3296814dc2d7dec3667
+  PhoneNumberKit: 441e8b26ec88d598e3591de9061eff18f5dd12e8
+  PromisesObjC: 68159ce6952d93e17b2dfe273b8c40907db5ba58
+  Protobuf: 176220c526ad8bd09ab1fb40a978eac3fef665f7
+  PryntTrimmerView: 6a43cc90df5d99addeabd33d4ba09b1365322130
+  QRCodeReader.swift: 373a389fe9a22d513c879a32a6f647c58f4ef572
+  RxCocoa: 5c51f02d562cbd94629f6c26cf0c80fe4ab8d343
+  RxRelay: 483e1a19fad961b41f0b0c0bee506f46c1ae14fe
+  RxSwift: a834e5c538e89eca0cae86f403f4fbf0336786ce
+  SDWebImage: 783af2c3fa36291a250030c4752ee370a9a51d13
+  SideMenu: f583187d21c5b1dd04c72002be544b555a2627a2
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+  Socket.IO-Client-Swift: c116d6dc9fd6be9c259bacfe143f8725bce7d79e
+  Starscream: 5178aed56b316f13fa3bc55694e583d35dd414d9
+  SteviaLayout: c2ecdcff57d44e38fd2f65e54ad52aeae28ca0c4
+  SwiftDate: 6329e58969a2de31cea7f1ee1143b247693196e7
+  SwiftKeychainWrapper: 807ba1d63c33a7d0613288512399cd1eda1e470c
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+  SwiftyMenu: 9f38e9a22fb9c01b889d33cc362ffc12de042dd2
+  SwiftyStoreKit: 6b9c08810269f030586dac1fae8e75871a82e84a
+  SwipeableTabBarController: 9a218bdee9426d1bfe36d7962f852024bb08d61b
+  Toast-Swift: 9b6a70f28b3bf0b96c40d46c0c4b9d6639846711
+  YPImagePicker: f36043210c10b0783034eb1947d6e06e31c461e4
+
+PODFILE CHECKSUM: d3bfcf41370ed02681ff5ba31e0e14c65c5061d1
+
+COCOAPODS: 1.11.2
